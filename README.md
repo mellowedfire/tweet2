@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='simple-tweet-required-compose-tweets.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='SimpleTweet2.5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -58,7 +58,7 @@ Had some issues with adding the Twitter assets to the action bar and editing the
 
 ## License
 
-    Copyright 2020 Frederic Triplett, Jr.
+    Copyright 2020 Nana Ama  Marfo,
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -112,7 +112,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='simple-tweet-required.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src='SimpleTweet2.5.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -127,7 +127,7 @@ Currently exploring how to make the app feel more Twitter branded. Using the col
 
 ## License
 
-    Copyright 2020 Frederic Triplett, Jr.
+    Copyright 2020 Nana Ama Marfo,
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
